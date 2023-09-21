@@ -2,7 +2,7 @@
 # with standard storage
 
 resource "google_storage_bucket" "static" {
- name          = "snow-test-7"
+ name          = "snow-test-8"
  location      = "US"
  storage_class = "STANDARD"
 
